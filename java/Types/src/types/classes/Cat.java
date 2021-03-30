@@ -1,12 +1,5 @@
 package types.classes;
 
-public class Cat {
-	private String sound;
+public class Cat extends Pet {
 
-	public Cat(String sound) {
-		super();
-		this.sound = sound;
-	}
-	
-	public String getSound() { return sound; }	
 }
