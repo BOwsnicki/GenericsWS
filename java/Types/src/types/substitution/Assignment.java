@@ -1,7 +1,7 @@
 package types.substitution;
-import classes.Cat;
-import classes.Dog;
-import classes.Pet;
+import types.classes.Cat;
+import types.classes.Dog;
+import types.classes.Pet;
 
 public class Assignment {
 
