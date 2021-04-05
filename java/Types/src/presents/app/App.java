@@ -26,9 +26,7 @@ public class App {
 		List<Box<Present>> boxes = list.getPresents();
 		
 		for (Box<Present> box : boxes) {
-			Present p = box.unwrap();
-			System.out.println(p);
+			System.out.println(box.unwrap());
 		}
-		
 	}
 }
