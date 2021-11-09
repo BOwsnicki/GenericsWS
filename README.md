@@ -2,7 +2,7 @@
 Support for the Types & Generics Workshop 04/06/2021
 
 # Files
-Slides.pdf: Slide hardcopies
+Types.pdf: Slide hardcopies
 
 # Folders
 java/Types: Eclipse projects Java\
